@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "target": "es6",\n    "module": "commonjs",\n    "strict": true,\n    "jsx": "react",\n    "esModuleInterop": true,\n    "skipLibCheck": true,\n    "baseUrl": ".",\n    "paths": {\n      "@src/*": ["src/*"],\n      "@components/*": ["src/components/*"],\n      "@utils/*": ["src/utils/*"]\n    }\n  }\n}
